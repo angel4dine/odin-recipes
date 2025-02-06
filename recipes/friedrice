@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+    <head>
+        <title>Odin Recipes</title>
+    </head>
+    <body>
+        <h1>Fried rice</h1>
+        <a href="../index.html">Home </a>
+        <img src="images/jollof.jpeg" alt="Jollof rice image">
+        <h3>Description</h3>
+        <p>Jollof rice is an african most popular choice of food
+            <br>It is made up of rice, tomatoes and seasoning 
+        </p>
+        <h3>Ingredients</h3>
+        <ul>
+            <li>rice</li>
+            <li>tomatoes</li>
+            <ii>chicken</ii>
+            <li>seasoning</li>
+            <li>Oil</li>
+            <li>onions</li>
+            <li>peppers</li>
+        </ul>
+
+        <h3>Steps</h3>
+        <ol>
+            <li>cook rice</li>
+            <li>fry chicken and tomatoes</li>
+            <li>mix together</li>
+        </ol>
+
+
+
+    </body>
+</html>
