@@ -5,6 +5,7 @@
     <body>
         <h1>White rice</h1>
         <a href="../index.html">Home </a>
+        <br>
         <img src="images/jollof.jpeg" alt="Jollof rice image">
         <h3>Description</h3>
         <p>Jollof rice is an african most popular choice of food
@@ -14,9 +15,9 @@
         <ul>
             <li>rice</li>
             <li>tomatoes</li>
-            <ii>chicken</ii>
+            <ii>chicken</li>
             <li>seasoning</li>
-            <li>Oil</li>
+            <li>oil</li>
             <li>onions</li>
             <li>peppers</li>
         </ul>
